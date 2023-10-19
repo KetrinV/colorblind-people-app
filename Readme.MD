@@ -4,6 +4,9 @@ Projekti mõte: Lõputöö värvipimedate inimeste jaoks
 11.10.23
 -----------
 
+# Colorblind people
+[![en](https://img.shields.io/badge/lang-en-ab4b52.svg)](https://github.com/KetrinV/colorblind-people-app/blob/master/README.en.md)
+
 <!-- 
 x Analüüs sellest, kuidas värvipimedus üldse töötab. 
 
