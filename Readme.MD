@@ -5,7 +5,7 @@ Projekti mõte: Lõputöö värvipimedate inimeste jaoks
 -----------
 
 # Colorblind people
-[![en](https://img.shields.io/badge/lang-en-ab4b52.svg)](https://github.com/KetrinV/colorblind-people-app/blob/master/README.en.md)
+[![en](https://img.shields.io/badge/lang-en-ab4b52.svg)](https://github.com/KetrinV/colorblind-people-app/blob/main/README.en.md)
 
 <!-- 
 x Analüüs sellest, kuidas värvipimedus üldse töötab. 
