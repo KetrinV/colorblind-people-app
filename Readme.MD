@@ -15,6 +15,7 @@ Projekti mõte: Lõputöö raames teha midagi veebis, mis on kasulik arendajatel
 
 ## Selle vahva projekt autorid
 ★ Anni Aavik ☆
+
 ☆ Ketrin Vanatoa ★
 
 ## Lingid
