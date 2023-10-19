@@ -17,4 +17,7 @@ Projekti mõte: Lõputöö raames teha midagi veebis, mis on kasulik arendajatel
 ★ Anni Aavik ☆
 ☆ Ketrin Vanatoa ★
 
+## Lingid
+https://linear.app/colorblind-app
+
 
