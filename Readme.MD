@@ -1,11 +1,10 @@
-Projekti mõte: Lõputöö värvipimedate inimeste jaoks
-
-# Colorblind people
+# Värvipimedatele inimestele suunatud projekt 
 [![en](https://img.shields.io/badge/lang-en-ab4b52.svg)](https://github.com/KetrinV/colorblind-people-app/blob/main/README.en.md)
 
+## Projekt
+Projekti mõte: Lõputöö raames teha midagi veebis, mis on kasulik arendajatele ja värvipimedatele inimestele, kes kasutavad veebi
 
-
-Teoreetilises osas esitatakse: 
+## Teoreetilises osas esitatakse: 
 - töö eesmärk ja olulisus; 
 - tehniline kirjeldus; 
 - praktilise teostuse kirjeldus;
@@ -14,7 +13,8 @@ Teoreetilises osas esitatakse:
 - tulemuste analüüs.
 
 
-Töö osalejad 
--->
+## Selle vahva projekt autorid
+★ Anni Aavik ☆
+☆ Ketrin Vanatoa ★
 
 
