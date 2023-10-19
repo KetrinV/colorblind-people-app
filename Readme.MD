@@ -18,6 +18,6 @@ Projekti mõte: Lõputöö raames teha midagi veebis, mis on kasulik arendajatel
 ☆ Ketrin Vanatoa ★
 
 ## Lingid
-https://linear.app/colorblind-app
-
+Linear: https://linear.app/colorblind-app
+Figma: https://www.figma.com/file/ic5UNb8TjsqKi4kImtjLOi/Colorblind?type=design&node-id=0-1&mode=design&t=0QzL0SKtkJOEOWDZ-0
 
