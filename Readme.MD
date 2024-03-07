@@ -21,4 +21,5 @@ Projekti mõte: Lõputöö raames teha midagi veebis, mis on kasulik arendajatel
 ## Lingid
 - Linear: https://linear.app/colorblind-app
 - Figma: https://www.figma.com/file/ic5UNb8TjsqKi4kImtjLOi/Colorblind?type=design&node-id=0-1&mode=design&t=0QzL0SKtkJOEOWDZ-0
+- Taiga: [Toetav infoleht värvipimedatele isikutele](https://tree.taiga.io/project/4avik-toetav-infoleht-varvipimedatele-isikutele/timeline)
 
