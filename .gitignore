@@ -1,0 +1,14 @@
+MyText.txt
+CustomTableOfContents.vue
+node_modules
+*.log
+.nuxt
+.nitro
+.cache
+.output
+.env
+.json
+dist
+.DS_Store
+README.md
+/test_folder
