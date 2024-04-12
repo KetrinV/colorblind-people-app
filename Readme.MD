@@ -1,6 +1,6 @@
 # Värvipimedatele inimestele suunatud projekt 
-[![en](https://img.shields.io/badge/lang-en-ab4b52.svg)](https://github.com/KetrinV/colorblind-people-app/blob/main/README.en.md)
 [![et](https://img.shields.io/badge/Tule%20vaata%20meie%20wiki%20dokumentatsiooni!-e8e6e1)](https://github.com/KetrinV/colorblind-people-app/wiki)
+[![en](https://img.shields.io/badge/lang-en-ab4b52.svg)](https://github.com/KetrinV/colorblind-people-app/blob/main/README.en.md)
 
 ## Projekt
 Projekti mõte: Lõputöö raames teha midagi veebis, mis on kasulik arendajatele ja värvipimedatele inimestele, kes kasutavad veebi
