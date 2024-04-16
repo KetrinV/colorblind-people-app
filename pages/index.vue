@@ -56,7 +56,38 @@
                             </p>
                             <img src="/image_preview/Test_img.png" alt="City Preview">
                             
+                            <p>Deuteranomaly - Partial green colorblindness</p>
                         </section>
+
+                        
+                        <section id="Protanopia">
+                            <h1>Protanopia </h1>
+                            <h2>(Total red colorblindness)</h2>
+                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellendus, iusto sequi animi ducimus nam inventore quibusdam! Eaque corrupti amet blanditiis a officia, qui deleniti nulla odio asperiores voluptatibus voluptate! Nobis!
+                            </p>
+                            <img src="/image_preview/Test_img.png" alt="City Preview">
+                            <p>Protanomaly - Partial red colorblindness</p>
+                        </section>
+
+
+                        <section id="Tritanopia ">
+                            <h1>Tritanopia  </h1>
+                            <h2>(Total blue colorblindness)</h2>
+                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellendus, iusto sequi animi ducimus nam inventore quibusdam! Eaque corrupti amet blanditiis a officia, qui deleniti nulla odio asperiores voluptatibus voluptate! Nobis!
+                            </p>
+                            <img src="/image_preview/Test_img.png" alt="City Preview">
+                            <p>Tritanomaly - Partial blue colorblindness</p>
+                        </section>
+
+                        <section id="Achromatopsia">
+                            <h1>Achromatopsia </h1>
+                            <h2>(Total colorblindness)</h2>
+                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellendus, iusto sequi animi ducimus nam inventore quibusdam! Eaque corrupti amet blanditiis a officia, qui deleniti nulla odio asperiores voluptatibus voluptate! Nobis!
+                            </p>
+                            <img src="/image_preview/Test_img.png" alt="City Preview">
+                            <p>Achromatomaly - Partial colorblindness, with faded colors</p>
+                        </section>
+
                     </section>
 
 

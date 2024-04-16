@@ -7,8 +7,8 @@ node_modules
 .cache
 .output
 .env
-.json
 dist
 .DS_Store
 README.md
 /test_folder
+/colorblind-people-app

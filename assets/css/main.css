@@ -67,19 +67,26 @@ body {
     height: auto;
     width: 80%;
     background-color: #000;
+    margin: 2.5rem;
+    flex-shrink: 0; 
+    border-radius: 0.625rem;
   }
 
   #title {
     text-align: center;
-    color: #ddd;
     margin: 1rem;
     font-family: "Inter", sans-serif;
+    font-size: 3rem;
   }
 
   .intro {
       width: 70%;
       height: auto;
-      text-align: left;
+      text-align: auto;
+      font-weight: 400;
+      line-height: 120%; /* 1.5rem */
+      font-size: 1.25rem;
+      
     }
 
 
@@ -98,6 +105,11 @@ body {
   
   .content {
     padding: 100px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
   }
   
   .container {
@@ -217,9 +229,18 @@ body {
 /*subpages*/
 
 .sub-herobanner {
-  background-image: url('../Bg-icons.svg');
+  background-image: url('../image_preview/Bg-icons.svg');
 }
 
+mark {
+  color: #FF595E;
+  background-color: transparent;
+  background-color: none;
+}
+
+#title {  
+  color: #66B2FF;
+}
 
 /*Navigation style*/
 

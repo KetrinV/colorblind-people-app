@@ -5,8 +5,6 @@
         <Head/>
         <Navi/>
         <section class="content">
-        <div class="container">
-            
             <section class="sub-herobanner">
                 <div class="title-bg">
                     <h1 id="title">Tips for Designers!</h1>
@@ -20,9 +18,7 @@
                  </div>
             </section>
             <section class="to-do" ></section>
-            <section class="to-avoid" ></section>
-
-        </div>
+            <section class="to-avoid" ></section>  
         </section>
 
         <Foot/>
