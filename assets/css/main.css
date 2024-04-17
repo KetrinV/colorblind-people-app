@@ -90,7 +90,17 @@ body {
     }
 
 
-  
+  .header-text{
+    width: 1214px;
+    height: 220px;
+    color: #66B2FF;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 110%;
+  }
+
   .content .container {
       background-color: rgba(237, 236, 235, 0.922);
       border-radius: 12px;
@@ -102,7 +112,25 @@ body {
       flex-direction: column;
 
     }
-  
+
+  #bullet{
+    font-size: 32px;
+  }
+  .bullet-text{
+    font-size: 20px;
+  }
+
+  .subtitle{
+    height: 80px;
+    font-size: 48px;
+    color: #FF595E;
+  }
+
+  .tips-icons{
+    fill: #66B2FF;
+    stroke: #66B2FF;
+  }
+
   .content {
     padding: 100px 20px;
     display: flex;
