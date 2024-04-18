@@ -62,7 +62,11 @@ body {
   .menu a i {
     margin-left: 5px;
   }
-  
+
+  .tips-icons{
+    height: 80px;
+  }
+
   .title-bg {
     height: auto;
     width: 80%;
@@ -117,9 +121,14 @@ body {
     font-size: 32px;
   }
   .bullet-text{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
     font-size: 20px;
   }
-
+  .bullet-text b {
+    margin-bottom: 0.5em;
+}
   .subtitle{
     height: 80px;
     font-size: 48px;
