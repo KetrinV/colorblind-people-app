@@ -65,9 +65,17 @@ body {
   
   .title-bg {
     height: auto;
+    width: 100%;
+    padding: 1rem;
+    background-color: #000;
+  }
+
+  .title-bg-rounded {
+    height: auto;
     width: 80%;
     background-color: #000;
     margin: 2.5rem;
+    padding: 1rem;
     flex-shrink: 0; 
     border-radius: 0.625rem;
   }
@@ -230,6 +238,10 @@ body {
 
 .sub-herobanner {
   background-image: url('../image_preview/Bg-icons.svg');
+  height: 42.125rem;
+  flex-shrink: 0;
+  width: 100%;
+  /* background: linear-gradient(90deg, #D7EBFF, #FFFFFF); */
 }
 
 mark {
