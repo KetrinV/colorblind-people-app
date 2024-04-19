@@ -92,9 +92,7 @@ body {
   }
 
   .intro {
-      width: 70%;
       height: auto;
-      text-align: auto;
       font-weight: 400;
       line-height: 120%; /* 1.5rem */
       font-size: 1.25rem;
@@ -142,12 +140,17 @@ body {
 .bullet-container {
   display: flex;
   flex-direction: column;
+  justify-content: center;
   align-items: center;
 }
   .subtitle{
     height: 80px;
     font-size: 48px;
     color: var(--red);
+  }
+
+  .bullet-fulltext{
+    
   }
 
   .tips-icons{
