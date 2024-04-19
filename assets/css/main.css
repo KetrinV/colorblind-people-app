@@ -10,6 +10,14 @@
     list-style: none;
     font-family: "Inter", sans-serif;
   }
+  :root{
+    --background: #fdfdfd;
+    --white: #fff;
+    --blue: #66B2FF;
+    --red: #FF595E;
+    --yellow: #FFDB5D;
+    --page_padding: 109px;
+  }
 
 body {
     margin: 0;
@@ -90,6 +98,7 @@ body {
       font-weight: 400;
       line-height: 120%; /* 1.5rem */
       font-size: 1.25rem;
+      padding: var(--page_padding);
       
     }
 
@@ -97,7 +106,7 @@ body {
   .header-text{
     width: 1214px;
     height: 220px;
-    color: #66B2FF;
+    color: var(--blue);
     font-family: Inter;
     font-size: 48px;
     font-style: normal;
@@ -129,15 +138,21 @@ body {
   .bullet-text b {
     margin-bottom: 0.5em;
 }
+
+.bullet-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
   .subtitle{
     height: 80px;
     font-size: 48px;
-    color: #FF595E;
+    color: var(--red);
   }
 
   .tips-icons{
-    fill: #66B2FF;
-    stroke: #66B2FF;
+    fill: var(--blue);
+    stroke: var(--blue);
   }
 
   .content {
@@ -270,13 +285,13 @@ body {
 }
 
 mark {
-  color: #FF595E;
+  color: var(--red);
   background-color: transparent;
   background-color: none;
 }
 
 #title {  
-  color: #66B2FF;
+  color: var(--blue);
 }
 
 /*Navigation style*/
