@@ -52,7 +52,6 @@ body {
   .menu li {
     margin: 0 1rem;
   }
-  
   .menu a {
     color: #4D4D4D;
     text-decoration: none;
@@ -64,6 +63,7 @@ body {
   }
   
   .title-bg {
+    border-radius: 10px;
     height: auto;
     width: 100%;
     padding: 1rem;
@@ -87,17 +87,41 @@ body {
     font-size: 3rem;
   }
 
+  .about-text{
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    line-height: 120%;
+  }
+
   .intro {
       width: 70%;
       height: auto;
-      text-align: auto;
       font-weight: 400;
       line-height: 120%; /* 1.5rem */
       font-size: 1.25rem;
       
     }
 
+    .about-container{
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+    }
 
+    .intro-about {
+      padding-top: 49px;
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      width: 70%;
+      height: auto;
+      font-weight: 400;
+      line-height: 120%; /* 1.5rem */
+      font-size: 1.25rem;
+      
+    }
   
   .content .container {
       background-color: rgba(237, 236, 235, 0.922);
