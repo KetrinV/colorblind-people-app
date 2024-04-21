@@ -140,13 +140,15 @@ body {
 .bullet-container {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
 }
   .subtitle{
     height: 80px;
     font-size: 48px;
     color: var(--red);
+  }
+
+  #sub2{
+   
   }
 
   .bullet-fulltext{

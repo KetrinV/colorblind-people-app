@@ -29,6 +29,22 @@
                         <p class="bullet-fulltext">Test different color schemes to ensure your website is understandable and readable for various types of color vision deficiency. Utilize tools that simulate different vision impairments.</p>
                     </ol>
                      <hr>
+                     <br>
+                     <br>
+                     <h3 class="subtitle" id="sub2">What to avoid:</h3>
+
+                     <ol class="bullet-container">
+                        <li class="bullet-text"><b id="bullet"><img class="tips-icons" src="/tips-icons/pallett.png" alt="">1. Solely depending on color:</b> </li>
+                        <p class="bullet-fulltext">Avoid conveying essential messages using color alone. Always use other visual elements to ensure clear information transmission.</p>
+                        <li class="bullet-text"><b id="bullet"><img class="tips-icons" src="/tips-icons/monitor-sun.png" alt="">2. Keeping the contrast low:</b> </li>
+                        <p class="bullet-fulltext">Steer clear of low-contrast color schemes that may make text hard to read. Ensure that text is distinctly discernible from the background.</p>
+                        <li class="bullet-text"><b id="bullet"><img class="tips-icons" src="/tips-icons/complicated.png" alt="">3. Using overly complex patterns:</b> </li>
+                        <p class="bullet-fulltext">Avoid intricate color or pattern combinations that may cause confusion for color-blind visitors.</p>
+                        <li class="bullet-text"><b id="bullet"><img class="tips-icons" src="/tips-icons/memo.png" alt="">4. Having a lack of alternative information:</b> </li>
+                        <p class="bullet-fulltext">Do not forget to include alternative information for messages conveyed through color to ensure universal understanding.</p>
+                        <li class="bullet-text"><b id="bullet"><img class="tips-icons" src="/tips-icons/watching-screen.png" alt="">5. Neglecting testing:</b> </li>
+                        <p class="bullet-fulltext">Do not leave color accessibility testing as a last step. Regularly test using different tools to ensure optimal usability for color-blind individuals.</p>
+                    </ol>
                  </div>
             </section>
             <section class="to-do" ></section>
