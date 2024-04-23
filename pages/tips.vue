@@ -12,7 +12,9 @@
             </section>
             <section>
                  <div class="intro">
-                     <h2 class="header-text">Have you <mark>ever</mark> wondered how to make your website more accessible and User-Friendly for people with <mark>color blindness</mark> ? </h2>
+                     <h2 class="header-text">Have you <mark>ever</mark> wondered how to make your website more accessible and User-Friendly for people with <mark>color blindness</mark> ?</h2>
+                     <br>
+                     <br>
                      <h2 class="header-text">Here are some tips on what to do and what to avoid!</h2>
                      <h3 class="subtitle">What to do:</h3>
 
