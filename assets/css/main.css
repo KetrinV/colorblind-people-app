@@ -16,7 +16,7 @@
     --blue: #66B2FF;
     --red: #FF595E;
     --yellow: #FFDB5D;
-    --page_padding: 109px;
+    --page_padding: 6.813rem;
   }
 
 body {
@@ -72,7 +72,17 @@ body {
   }
 
   .tips-icons{
-    height: 80px;
+    height: 4rem;
+    width: 4rem;
+    margin: 1rem 2rem 1rem 0;
+    /*Reminder: top right bottom left*/
+  }
+
+  #section{
+    padding-bottom: 3.125rem;
+    padding-top: 3.125rem;
+    display: flex;
+    flex-direction: row;
   }
 
   .title-bg {
@@ -102,11 +112,11 @@ body {
 
 
   .header-text{
-    width: 1214px;
-    height: 220px;
+    width: 75.875rem;
+    height: 13.75rem;
     color: var(--blue);
     font-family: Inter;
-    font-size: 48px;
+    font-size: 3rem;
     font-style: normal;
     font-weight: 600;
     line-height: 110%;
@@ -114,7 +124,7 @@ body {
 
   .content .container {
       background-color: rgba(237, 236, 235, 0.922);
-      border-radius: 12px;
+      border-radius: 0.75rem;
       box-shadow: 0 8px 8px rgb(0 0 0 / 30%);
       display: flex;
       justify-content: center;
@@ -125,13 +135,13 @@ body {
     }
 
   #bullet{
-    font-size: 32px;
+    font-size: 2rem;
   }
   .bullet-text{
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    font-size: 20px;
+    font-size: 1.25rem;
   }
   .bullet-text b {
     margin-bottom: 0.5em;
@@ -142,17 +152,11 @@ body {
   flex-direction: column;
 }
   .subtitle{
-    height: 80px;
-    font-size: 48px;
+    height: 5rem;
+    font-size: 3rem;
     color: var(--red);
-  }
-
-  #sub2{
-   
-  }
-
-  .bullet-fulltext{
-    
+    padding-top: 6rem;
+    padding-bottom: 5rem;
   }
 
   .tips-icons{
