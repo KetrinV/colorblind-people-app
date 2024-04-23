@@ -22,16 +22,15 @@ body {
   }
   
   .navbar {
-    background-color: #FFFFFF;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem;
     color: #4D4D4D;
     position: fixed;
     width: 100%;
     top: 0;
+    background-color: #FFFFFF;
     box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.11);
   }
   
@@ -40,8 +39,10 @@ body {
     text-decoration: none;
     font-size: 1.25rem;
     display: flex;
+    align-items: center;
   }
   
+
   .menu ul {
     list-style: none;
     margin: 0;
@@ -52,6 +53,7 @@ body {
   .menu li {
     margin: 0 1rem;
   }
+  
   .menu a {
     color: #4D4D4D;
     text-decoration: none;
@@ -170,6 +172,9 @@ body {
     background-color: #333;
     color: #fff;
     padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
     text-align: center;
   }
   
@@ -196,7 +201,7 @@ body {
   
 
   
-/*Dropdown weapon below*/
+/*Dropdown menu  below*/
 
   .dropdown {
     position: relative;
@@ -231,7 +236,7 @@ body {
     display: block;
   }
   
-/*Dropdown weapon above*/
+/*Dropdown menu above*/
 
 
 /*Main - Home*/
@@ -239,6 +244,20 @@ body {
 .herobanner {
   background: #F3EABB;
   background: linear-gradient(90deg, #F3EABB, #FFFFFF);
+}
+
+#red-button {
+  border-radius: 0.25rem;
+  background: #FF595E;
+  box-shadow: 0 2px 22px 0;
+  display: flex;
+  width: 11.5rem;
+  height: 2.9375rem;
+  justify-content: center;
+  align-items: center;
+  color: #000;
+  font-size: 1.125rem;
+  border: none;
 }
 
 #colorblindness-type {
@@ -297,19 +316,6 @@ input[type=checkbox] {
 
   .dropdown{
     display: none;
-  }
-
-  .nav {
-      display: none;
-      position: absolute;
-      margin-top: 20px;
-      right: 0;
-      left: 0;
-      text-align: center;
-      padding: 1rem 0;
-      background-color: rgba(40, 73, 120, 0.8);
-      border-radius: 0.5rem;
-      z-index: 1;
   }
 
   input[type=checkbox]:checked~.nav {

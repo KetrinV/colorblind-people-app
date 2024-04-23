@@ -14,7 +14,7 @@
                     <section class="herobanner">
                         <h1>Why Make the Web More Accessible and</h1>
                         <h1>User-friendly ?</h1>
-                        <button>Learn more</button>
+                        <button id="red-button">Learn more</button>
                     </section>
                     <section class="get-started">
                         <h2>Get started!</h2>
