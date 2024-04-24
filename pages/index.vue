@@ -9,29 +9,34 @@
 
         <!-- fix below -->
         <section class="content">
-                    <div class="intro">
-
-                    <section class="herobanner">
+            
+            <section class="herobanner">
                         <h1>Why Make the Web More Accessible and</h1>
                         <h1>User-friendly ?</h1>
-                        <button>Learn more</button>
-                    </section>
+                        <button id="red-button">Learn more</button>
+            </section>
+
+                <div class="intro">
                     <section class="get-started">
                         <h2>Get started!</h2>
-                        <div id="tips">
+                        <div id="gs-redirect">
+                            <img class="tips-icons" src="/tips-icons/TIPS.png" alt=" "> 
                             Tips
                             <p>Make your website more accessible and User-Friendly for people with color blindness</p>
                         </div>
-                        <div id="tools">
+                        <div id="gs-redirect">
+                            <img class="tips-icons" src="/tips-icons/pencil.png" alt=" ">
                             Tools
                             <p>Some tools that we’ve collected, so that you can run different tests on your web-solution
                             </p>
                         </div>
-                        <div id="about">
+                        <div id="gs-redirect">
+                            <img class="tips-icons" src="/tips-icons/heart-message.png" alt=" ">
                             About
                             <p>Learn why we made this website and where the idea came from?</p>
                         </div>
                     </section>
+
                     <section class="theme-introduction">
                         <h2>What is Color Blindness and How Does It Impact User Experience?</h2>
                         <p>Color blindness, or the inability to distinguish certain colors, presents a fascinating
