@@ -6,7 +6,7 @@
         <Navi/>
         <section class="content">
             <section class="sub-herobanner">
-                <div class="title-bg">
+                <div class="title-bg">title-bg
                     <h1 id="title">Tips for Designers!</h1>
                 </div>
             </section>

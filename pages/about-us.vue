@@ -6,7 +6,7 @@
         <Navi/>
         <section class="content">
         <div class="about-container">
-            <div class="title-bg">
+            <div class="title-bg-rounded">
                 <h1 id="title">About <mark>us!</mark></h1> 
             </div> 
             <div class="intro-about">

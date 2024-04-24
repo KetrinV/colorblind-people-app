@@ -87,11 +87,15 @@ body {
   }
 
   .title-bg {
-    border-radius: 10px;
+
     height: auto;
     width: 100%;
     padding: 1rem;
     background-color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
   }
 
   .title-bg-rounded {
@@ -339,6 +343,7 @@ body {
   height: 42.125rem;
   flex-shrink: 0;
   width: 100%;
+  background-size: cover;
   /* background: linear-gradient(90deg, #D7EBFF, #FFFFFF); */
 }
 
