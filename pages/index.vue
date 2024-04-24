@@ -19,15 +19,18 @@
                     <section class="get-started">
                         <h2>Get started!</h2>
                         <div id="tips">
+                            <img class="tips-icons" src="/tips-icons/pencil+.png" alt=" ">
                             Tips
                             <p>Make your website more accessible and User-Friendly for people with color blindness</p>
                         </div>
                         <div id="tools">
+                            <img class="tips-icons" src="/tips-icons/stars.png" alt=" ">
                             Tools
                             <p>Some tools that we’ve collected, so that you can run different tests on your web-solution
                             </p>
                         </div>
                         <div id="about">
+                            <img class="tips-icons" src="/tips-icons/heart-message.png" alt=" ">
                             About
                             <p>Learn why we made this website and where the idea came from?</p>
                         </div>
