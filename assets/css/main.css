@@ -120,6 +120,22 @@ body {
     line-height: 110%;
   }
 
+  .tools-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Inter;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 118.75%;
+    padding-top: 13rem;
+  }
+
+  .tools-image{
+    
+  }
+
   .content .container {
       background-color: rgba(237, 236, 235, 0.922);
       border-radius: 0.75rem;

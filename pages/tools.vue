@@ -15,7 +15,8 @@
         <section>
             <div class="intro">
                 <h2 class="header-text" >Have you <mark>ever</mark> wondered how accessible your web-solution is? <br> <br> Here are some tools that we’ve collected, so that you can run different tests on your web-solution. These tests range from checking your color-pallette to <mark>different simulations of how users who cannot tell colors apart would see your site.</mark> </h2>
-                <h3>Color Palette Checker:</h3>
+                <h3 class="tools-header">Color Palette Checker:</h3>
+                <img class="tools-image" src="/image_preview/colorpallet.png" alt="">
             </div>
         </section>
         <Foot/>
