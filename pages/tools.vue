@@ -5,17 +5,23 @@
         <Head/>
         <Navi/>
         <section class="content">
-        <div class="container">
-            <div class="title-bg">
-                <h1 id="title">Tools for testing your web-solution</h1>
-            </div>
-            <div class="intro">
-                <h1>Have you ever wondered how accessible your web-solution is? Here are some tools that we’ve collected, so that you can run different tests on your web-solution. These tests range from checking your color-pallette to different simulations of how users who cannot tell colors apart would see your site. </h1>
-                <h2>Color Palette Checker:</h2>
-            </div>
-        </div>
+            <section class="sub-herobanner">
+                <div class="title-bg">
+                    <h1 id="title">Tools for testing your web-solution</h1>
+                </div>
+            </section>
         </section>
-
+        
+        <section>
+            <div class="intro">
+                <h2 class="header-text" >Have you <mark>ever</mark> wondered how accessible your web-solution is? <br> <br> Here are some tools that we’ve collected, so that you can run different tests on your web-solution. These tests range from checking your color-pallette to <mark>different simulations of how users who cannot tell colors apart would see your site.</mark> </h2>
+                <h3 class="tools-header">Color Palette Checker:</h3>
+                <div class="tools-img-container">
+                    <img class="tools-image" src="/image_preview/colorpallet.png" alt="">
+                </div>
+                
+            </div>
+        </section>
         <Foot/>
     </div>
 </template>
