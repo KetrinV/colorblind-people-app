@@ -16,9 +16,14 @@
             <div class="intro">
                 <h2 class="header-text" >Have you <mark>ever</mark> wondered how accessible your web-solution is? <br> <br> Here are some tools that we’ve collected, so that you can run different tests on your web-solution. These tests range from checking your color-pallette to <mark>different simulations of how users who cannot tell colors apart would see your site.</mark> </h2>
                 <h3 class="tools-header">Color Palette Checker:</h3>
-                <img class="tools-image" src="/image_preview/colorpallet.png" alt="">
+                <div class="tools-img-container">
+                    <img class="tools-image" src="/image_preview/colorpallet.png" alt="">
+                </div>
+                <p class="tools-p">Optimize your website's color palette for inclusivity with our Color Palette Checker. Ensure high contrast and readability, creating a visually appealing and user-friendly design accessible to all.</p>
+                <hr>
             </div>
         </section>
+    
         <Foot/>
     </div>
 </template>
