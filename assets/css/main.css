@@ -134,10 +134,8 @@ body {
 
   .tools-image{
     display: flex;
-    /* max-height: inherit; */
     max-height: 35rem;
     max-width: 90%;
-    object-fit: cover;
   }
 
   .tools-img-container{
