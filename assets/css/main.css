@@ -193,6 +193,7 @@ body {
 .bullet-container {
   display: flex;
   flex-direction: column;
+  max-width: 70ch;
 }
   .subtitle{
     height: 5rem;
