@@ -1,5 +1,3 @@
-<!--Hei! See on .view fail. Kõik HTML läheb template'i sisse-->
-
 <template>
     <div>
         <Head/>
