@@ -130,19 +130,63 @@ body {
     flex-direction: column;
   }
 
-  .intro-about {
-    padding-top: 49px;
+  .tools-header{
     display: flex;
     justify-content: center;
-    flex-direction: column;
-    width: 70%;
-    height: auto;
-    font-weight: 400;
-    line-height: 120%; /* 1.5rem */
-    font-size: 1.25rem;
-    
+    align-items: center;
+    font-family: Inter;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 118.75%;
+    padding-bottom: 1.875rem;
+    padding-top: 7rem;
   }
-  
+
+  #after-hr{
+    padding-top: 13rem;
+  }
+
+  .links{
+    height: auto;
+    width: auto;
+  }
+
+  .tools-image{
+    display: flex;
+    max-height: 35rem;
+    max-width: 90%;
+    cursor: pointer;
+  }
+
+  .tools-img-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .tools-p{
+    padding-bottom: 3.125rem;
+    padding-top: 3.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 161.29%;
+    padding-left: 8.875rem;
+    padding-right: 8.875rem;
+  }
+
+  .content .container {
+      background-color: rgba(237, 236, 235, 0.922);
+      border-radius: 0.75rem;
+      box-shadow: 0 8px 8px rgb(0 0 0 / 30%);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+
+    }
+
   #bullet{
     font-size: 2rem;
   }
@@ -159,6 +203,7 @@ body {
 .bullet-container {
   display: flex;
   flex-direction: column;
+  max-width: 70ch;
 }
   .subtitle{
     height: 5rem;
@@ -523,14 +568,26 @@ input[type=checkbox] {
   .header-text{
     font-size: 2rem;
   }
+
   .intro{
     padding: 0;
   }
+
   .subtitle{
     font-size: 2rem;
   }
+
   #bullet{
     font-size: 1.8rem;
+  }
+
+  .intro p{
+    padding-left: 23px;
+    padding-right: 23px;
+  }
+
+  .tools-header{
+    font-size: 2rem;
   }
 }
 
