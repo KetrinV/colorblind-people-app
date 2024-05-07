@@ -30,6 +30,9 @@ body {
     display: flex;
   }
   
+  #color-pallet-checker{
+    transition: ease-in 5s;
+  }
 
   .wrapper {
     display: flex;

@@ -23,7 +23,8 @@
                 <li class="dropdown">
                   <nuxt-link to="../tools">Tools<i class="fa-solid fa-caret-down"></i></nuxt-link>
                   <div class="dropdown-content2">
-                    <nuxt-link to="#">Color Palette Checker</nuxt-link> 
+                    <nuxt-link to="../tools/#color-pallet-checker">Color Palette Checker</nuxt-link>
+                    <nuxt-link to="../tools/#color-blindness-simulator">Color Blindness Simulator</nuxt-link> 
                   </div>
                 </li>
                 <li class="dropdown">
