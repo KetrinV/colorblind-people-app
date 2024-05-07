@@ -1,9 +1,14 @@
-# Värvipimedatele inimestele suunatud projekt 
+# Värvipimedus ja selle mõju veebis  
+## Veebiarendajatele ja kujundajatele suunatud projekt ligipääsetavuse kohta
+
 [![et](https://img.shields.io/badge/Tule%20vaata%20meie%20wiki%20dokumentatsiooni!-e8e6e1)](https://github.com/KetrinV/colorblind-people-app/wiki)
 [![en](https://img.shields.io/badge/lang-en-ab4b52.svg)](https://github.com/KetrinV/colorblind-people-app/blob/main/README.en.md)
 
-## Projekt
+### Millega on tegemist?
 Projekti mõte: Lõputöö raames teha midagi veebis, mis on kasulik arendajatele ja värvipimedatele inimestele, kes kasutavad veebi
+
+### Mida pakub Colormaze?
+Meie leht
 
 ## Teoreetilises osas esitatakse: 
 - töö eesmärk ja olulisus; 
