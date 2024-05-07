@@ -1,8 +1,8 @@
-# Värvipimedus ja selle mõju veebis  
+# Värvipimedus ja selle mõju veebis   [![en](https://img.shields.io/badge/lang-en-ab4b52.svg)](https://github.com/KetrinV/colorblind-people-app/blob/main/README.en.md)
 ## Veebiarendajatele ja kujundajatele suunatud projekt ligipääsetavuse kohta
 
 [![et](https://img.shields.io/badge/Tule%20vaata%20meie%20wiki%20dokumentatsiooni!-e8e6e1)](https://github.com/KetrinV/colorblind-people-app/wiki)
-[![en](https://img.shields.io/badge/lang-en-ab4b52.svg)](https://github.com/KetrinV/colorblind-people-app/blob/main/README.en.md)
+
 
 ### Millega on tegemist?
 Tegemist on kahe tarkvaraarenduse õpilase poolt lõputöö raames loodud projektiga, mille eesmärk on suurendada teadlikust värvipimeduse ja selle mõju kohta veebis. Meie lõppeesmärk on, et arendajad ja veebikujundajad oskaksid veebilahendusi luues paremini arvestada erinevate inimeste vajadustega.
