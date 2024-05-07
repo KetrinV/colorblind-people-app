@@ -217,8 +217,9 @@ body {
   }
 
   .tips-icons{
-    fill: var(--blue);
-    stroke: var(--blue);
+    height: 4rem;
+    width: 4rem;
+    margin: 1rem 2rem 1rem 0;
   }
   
   .intro h1 {
@@ -433,16 +434,6 @@ padding: 0 7vh 5vh 0;
 
 #gs-redirect p {
   width: 25rem;
-}
-
-.tips-icons{
-  height: auto;
-  width: 20%;
-  margin: 1rem 2rem 1rem 0;
-  /*Reminder: top right bottom left*/
-  display: flex;
-  flex-direction: row;
-  align-self: center;
 }
 
 #gs-rd-title{

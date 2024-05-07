@@ -28,6 +28,6 @@
             </div>
         </section>
     
-        <Foot/>
+         <Foot/>
     </div>
 </template>
