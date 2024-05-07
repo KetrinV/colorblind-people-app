@@ -20,7 +20,7 @@
                 </div>
                 <p class="tools-p">Optimize your website's color palette for inclusivity with our Color Palette Checker. Ensure high contrast and readability, creating a visually appealing and user-friendly design accessible to all.</p>
                 <hr>
-                <h3 class="tools-header" id="color-blindness-simulator">Color blindness simulator:</h3>
+                <h3 class="tools-header" id="color-blindness-simulator">Color Blindness Simulator:</h3>
                 <div class="tools-img-container">
                     <img class="tools-image" src="/image_preview/color-blindness-simulator.jpg" alt="Picture of diffrent color visions" onclick="window.location.href='https://color-blind-simulator.tak21vanatoa.itmajakas.ee';">
                 </div>
