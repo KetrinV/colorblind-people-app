@@ -206,7 +206,6 @@ body {
 .bullet-container {
   display: flex;
   flex-direction: column;
-  max-width: 70ch;
 }
   .subtitle{
     height: 5rem;
@@ -573,11 +572,6 @@ input[type=checkbox] {
 
   #bullet{
     font-size: 1.8rem;
-  }
-
-  .intro p{
-    padding-left: 23px;
-    padding-right: 23px;
   }
 
   .tools-header{
