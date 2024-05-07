@@ -9,12 +9,12 @@ Tegemist on kahe tarkvaraarenduse õpilase poolt lõputöö raames loodud projek
 
 ### Mida pakub Colormaze?
 Meie lehekülg, mille nimi on Colormaze hõlmab järgnevalt;
-  - lühikest kokkuvõtet värvipimedusest ja selle mõjust kasutajakogemusele;
-  - lühitutvustust erinevatest värvipimeduse kategooriatest ja klassidest, mis annavad 
+  - Lühikest kokkuvõtet värvipimedusest ja selle mõjust kasutajakogemusele;
+  - Lühitutvustust erinevatest värvipimeduse kategooriatest ja klassidest, mis annavad 
 ülevaate erinevate värvipimeduse tüüpidest ja nende mõjust;
-  - nõuandeid, kuidas teha veebilehekülgi värvipimedate jaoks kasutajasõbralikumaks ja 
+  - Nõuandeid, kuidas teha veebilehekülgi värvipimedate jaoks kasutajasõbralikumaks ja 
 mida selle eesmärgi nimel vältida;
-  - tööriistu ja vahendeid enda teadmiste arendamiseks ning kontrollimiseks, et 
+  - Tööriistu ja vahendeid enda teadmiste arendamiseks ning kontrollimiseks, et 
 arendatava veebilahenduse funktsioonid ja osad oleks värvipimedatele inimestele 
 kasutajasõbralikud;
   - "About" sektsiooni, kus tutvustatakse veebilehe eesmärki, selle loomise ideed ning 
@@ -46,6 +46,5 @@ valikut.
 - Linear: https://linear.app/colorblind-app
 - Figma  - [Värvipimedus - toetav veebileht](https://www.figma.com/file/mygo5NgExPrAO8x3cs3xEG/Untitled?type=design&node-id=4%3A3&mode=design&t=BwiJK332Qksdlgp9-1)
 - Taiga: [Toetav infoleht värvipimedatele isikutele](https://tree.taiga.io/project/4avik-toetav-infoleht-varvipimedatele-isikutele/timeline)
-- Projekti ajakava Canvas:  [Ajakava](https://www.canva.com/design/DAGCwvRiPic/KQPGezwnyDftbfVaIElL_A/view?utm_content=
-DAGCwvRiPic&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- Projekti ajakava Canvas:  [Ajakava](https://www.canva.com/design/DAGCwvRiPic/KQPGezwnyDftbfVaIElL_A/view?utm_content=DAGCwvRiPic&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
