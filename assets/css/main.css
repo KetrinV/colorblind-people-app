@@ -27,7 +27,6 @@ body {
     background: url(https://i.etsystatic.com/18226958/r/il/cb5d0b/1732779826/il_fullxfull.1732779826_pu7v.jpg) no-repeat center center fixed;
     background-size: cover; 
     */
-    display: flex;
   }
   
   #color-pallet-checker{
@@ -113,9 +112,9 @@ body {
   .about-text{
     color: #000;
     text-align: center;
-    font-family: Inter;
     font-size: 20px;
     line-height: 120%;
+    max-width: 90ch;
   }
 
   .intro {
@@ -126,7 +125,11 @@ body {
       padding: var(--page_padding);
     }
 
-
+  .intro-about{
+    padding-left: var(--page_padding);
+    padding-right: var(--page_padding);
+    padding-bottom: var(--page_padding);
+  }
   .about-container{
     display: flex;
     align-items: center;
@@ -560,6 +563,10 @@ input[type=checkbox] {
 @media screen and (max-width: 700px) {
   .header-text{
     font-size: 2rem;
+  }
+
+  .about-container{
+    padding: 1rem;
   }
 
   .intro{
