@@ -449,6 +449,11 @@ padding: 0 7vh 5vh 0;
   flex-direction: row;
 }
 
+.juxtapose{
+  width: 900px;
+  height: 700px;
+}
+
 #gs-redirect {
   display: flex;
   flex-direction: column;

@@ -104,7 +104,7 @@
                                 Understand the nuances through a dynamic filter and slider simulation, allowing users to
                                 experience both a regular view and the altered perspective of someone with Deuteranopia:
                             </p> -->
-                            <img src="/image_preview/Test_img.png" alt="City Preview">
+                            <iframe frameborder="0" class="juxtapose" width="100%" height="580" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2feb6996-233a-11ef-9396-d93975fe8866"></iframe>
                         </section>
                 
 
@@ -115,7 +115,7 @@
                             <p><b>Color Cone Sensitivity:</b> Red</p>
                             <p>Protanomaly is the second most common and is characterized by a reduced sensitivity to red light. People with protanomaly have difficulty distinguishing between shades of red and green. A person with protan type color blindness tends to see greens, yellows, oranges, reds, and browns as being more similar shades of color than normal, especially in low light. It is estimated that about 25% of cases of red-green color blindness are of the protan type.
                             </p>
-                            <img src="/image_preview/Test_img.png" alt="City Preview">
+                            <iframe frameborder="0" class="juxtapose" width="100%" height="580" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=e43298e8-233a-11ef-9396-d93975fe8866"></iframe>
                         </section>
 
 
@@ -126,7 +126,7 @@
                             <p><b>Color Cone Sensitivity:</b> Blue</p>
                             <p>Tritanomaly is a rare type of color blindness that affects both males and females equally. It is characterized by a reduced sensitivity to blue light, making it difficult to differentiate between shades of blue and green, as well as yellow and red. Tritan color blindness most commonly acquired later in life due to aging of the eye or a medical condition such as glaucoma and is only very rarely inherited from birth.
                             </p>
-                            <img src="/image_preview/Test_img.png" alt="City Preview">
+                            <iframe frameborder="0" class="juxtapose" width="100%" height="580" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=a7150ac6-233b-11ef-9396-d93975fe8866"></iframe>
                         </section>
 
                         <section id="Achromatopsia">
@@ -135,7 +135,7 @@
                             <p><b>Achromatomaly</b> - Partial colorblindness, with faded colors</p>
                             <p>Sometimes these are collectively referred to as types of achromatopsia, as the word “achromat” meaning “no color.” However, not all cases of achromatopsia have “no color” vision. Achromatopsia is often associated with light sensitivity, photophobia, and glare sensitivity. In some cases, low vision disorders such as progressive cone dystrophy or retinitis pigmentosa can cause a gradual deterioration of color vision that eventually turns into complete achromatopsia.
                             </p>
-                            <img src="/image_preview/Test_img.png" alt="City Preview">
+                            <iframe frameborder="0" class="juxtapose" width="100%" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=10533c4c-233c-11ef-9396-d93975fe8866"></iframe>
                         </section>
                     </div>
                 </section>
