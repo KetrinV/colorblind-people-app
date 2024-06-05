@@ -449,6 +449,12 @@ padding: 0 7vh 5vh 0;
   flex-direction: row;
 }
 
+.juxta-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .juxtapose{
   width: 900px;
   height: 700px;
@@ -590,6 +596,12 @@ input[type=checkbox] {
   display: none;
 }
 @media screen and (max-width: 700px) {
+
+  .juxtapose{
+    width: 200px;
+    height: 300px;
+  }
+
   .header-text{
     font-size: 2rem;
   }
@@ -614,8 +626,20 @@ input[type=checkbox] {
     font-size: 2rem;
   }
 }
+@media screen and (max-width: 600px){
+  .juxtapose{
+    width: 50px;
+    height: 100px;
+  }
+}
 
 @media screen and (max-width: 1020px) {
+
+  .juxtapose{
+    width: 600px;
+    height: 500px;
+  }
+
 
   #gs-redirect-container{
     flex-direction: column;
