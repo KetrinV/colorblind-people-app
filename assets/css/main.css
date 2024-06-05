@@ -109,6 +109,30 @@ body {
     font-size: 3rem;
   }
 
+  .cool-title{
+    display: flex;
+    text-align: left;
+    color: #66B2FF;
+    line-height: 110%;
+    padding-bottom: 49px;
+    margin: 1rem;
+    font-family: "Inter", sans-serif;
+    font-size: 3rem;
+  }
+
+  .p-text{
+    display: flex;
+    align-items: center;
+    line-height: 200%;
+    margin: 1rem;
+    padding-bottom: 6rem;
+  }
+
+  .theme-introduction{
+    display: flex;
+    flex-direction: column;
+  }
+
   .about-text{
     color: #000;
     text-align: center;
@@ -588,6 +612,10 @@ input[type=checkbox] {
 
 @media screen and (max-width: 1020px) {
 
+  #gs-redirect-container{
+    flex-direction: column;
+  }
+
   .dropdown{
     display: none;
   }
@@ -645,4 +673,5 @@ input[type=checkbox] {
   margin: 20px auto; 
 
 }
+
 }
