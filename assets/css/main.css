@@ -230,6 +230,28 @@ body {
     margin-bottom: 0.5em;
 }
 
+.type-p{
+  padding: 1rem;
+}
+
+.types-text-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#Deuteranopia h2, #Protanopia h2, #Tritanopia h2, #Achromatopsia h2{
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 76px;
+}
+
+#type-1{
+  padding-top: 2rem;
+}
+
 .bullet-container {
   display: flex;
   flex-direction: column;
@@ -247,7 +269,13 @@ body {
     width: 4rem;
     margin: 1rem 2rem 1rem 0;
   }
-  
+
+  .main-p{
+    padding-top: 20px;
+    padding-bottom: 60px;
+    line-height: 200%;
+  }
+
   .intro h1 {
     font-size: 3rem;
     margin-bottom: 20px;
@@ -255,9 +283,7 @@ body {
   
   .intro p {
     font-size: 1.2rem;
-    line-height: 1.5;
     color: #333;
-    margin-bottom: 1.25rem;
   }
   
   
@@ -572,6 +598,10 @@ mark {
   padding-right: 2vh;
 }
 
+#Deuteranopia, #Protanopia, #Tritanopia, #Achromatopsia{
+  padding-top: 14rem;
+}
+
 .menu li {
   margin: 0 1rem;
 }
@@ -596,10 +626,12 @@ input[type=checkbox] {
   display: none;
 }
 @media screen and (max-width: 700px) {
-
+  .main-p{
+    margin: 1.25rem;
+  }
   .juxtapose{
-    width: 200px;
-    height: 300px;
+    width: 12.5rem;
+    height: 18.75rem;
   }
 
   .header-text{
@@ -626,23 +658,43 @@ input[type=checkbox] {
     font-size: 2rem;
   }
 }
+
+@media screen and (max-width: 360px){
+  .types-text-container h1{
+    font-size: 2.5rem;
+  }
+  #Deuteranopia h2, #Protanopia h2, #Tritanopia h2, #Achromatopsia h2{
+    font-size: 19px;
+  }
+
+}
+
 @media screen and (max-width: 600px){
   .juxtapose{
-    width: 50px;
-    height: 100px;
+    width: 3.125rem;
+    height: 6.25rem;
+  }
+
+  .button-typegroup-layout{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
 }
 
 @media screen and (max-width: 1020px) {
 
   .juxtapose{
-    width: 600px;
-    height: 500px;
+    width: 37.5rem;
+    height: 31.25rem;
   }
 
 
   #gs-redirect-container{
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
 
   .dropdown{

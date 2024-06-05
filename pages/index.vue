@@ -95,11 +95,13 @@
 
                     <div class="tool-typegroup-layout">
                         <section id="Deuteranopia">
-                            <h1>Deuteranopia</h1>
-                            <h2>(Red-Green Color Blindness)</h2>
-                            <p><b>Deuteranomaly</b> - Partial green colorblindness</p>
-                            <p><b>Color Cone Sensitivity:</b> Green</p>
-                            <p>Deuteranopia is the most common type of color blindness, affecting about 6% of men. It is characterized by a reduced sensitivity to green light, making it difficult to differentiate between shades of red and green. Common symptom is that green traffic signals appear to be a very pale green or sometimes white.</p>
+                            <div class="types-text-container">
+                                <h1>Deuteranopia</h1>
+                                <h2><mark>(Red-Green Color Blindness)</mark></h2>
+                            </div>
+                            <p class="type-p" id="type-1"><b>Deuteranomaly:</b> Partial green colorblindness</p>
+                            <p class="type-p" ><b>Color Cone Sensitivity:</b> Green</p>
+                            <p class="main-p">Deuteranopia is the most common type of color blindness, affecting about 6% of men. It is characterized by a reduced sensitivity to green light, making it difficult to differentiate between shades of red and green. Common symptom is that green traffic signals appear to be a very pale green or sometimes white.</p>
                             <!-- <p>Deuteranopia is a type of color blindness affecting the perception of green hues.
                                 Understand the nuances through a dynamic filter and slider simulation, allowing users to
                                 experience both a regular view and the altered perspective of someone with Deuteranopia:
@@ -113,11 +115,13 @@
                 
 
                         <section id="Protanopia">
-                            <h1>Protanopia </h1>
-                            <h2>(Red-Green Color Blindness)</h2>
-                            <p><b>Protanomaly</b> - Partial red colorblindness</p>
-                            <p><b>Color Cone Sensitivity:</b> Red</p>
-                            <p>Protanomaly is the second most common and is characterized by a reduced sensitivity to red light. People with protanomaly have difficulty distinguishing between shades of red and green. A person with protan type color blindness tends to see greens, yellows, oranges, reds, and browns as being more similar shades of color than normal, especially in low light. It is estimated that about 25% of cases of red-green color blindness are of the protan type.
+                            <div class="types-text-container">
+                                <h1>Protanopia </h1>
+                                <h2><mark>(Red-Green Color Blindness)</mark></h2>
+                            </div>
+                            <p class="type-p" id="type-1"><b>Protanomaly:</b> Partial red colorblindness</p>
+                            <p class="type-p"><b>Color Cone Sensitivity:</b> Red</p>
+                            <p class="main-p">Protanomaly is the second most common and is characterized by a reduced sensitivity to red light. People with protanomaly have difficulty distinguishing between shades of red and green. A person with protan type color blindness tends to see greens, yellows, oranges, reds, and browns as being more similar shades of color than normal, especially in low light. It is estimated that about 25% of cases of red-green color blindness are of the protan type.
                             </p>
                             <div class="juxta-container">
                                 <iframe frameborder="0" class="juxtapose" width="100%" height="580" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=e43298e8-233a-11ef-9396-d93975fe8866"></iframe>
@@ -126,12 +130,15 @@
                         </section>
 
 
-                        <section id="Tritanopia ">
-                            <h1>Tritanopia </h1>
-                            <h2>(Blue-Yellow Color Blindness)</h2>
-                            <p><b>Tritanomaly</b> - Partial blue colorblindness</p>
-                            <p><b>Color Cone Sensitivity:</b> Blue</p>
-                            <p>Tritanomaly is a rare type of color blindness that affects both males and females equally. It is characterized by a reduced sensitivity to blue light, making it difficult to differentiate between shades of blue and green, as well as yellow and red. Tritan color blindness most commonly acquired later in life due to aging of the eye or a medical condition such as glaucoma and is only very rarely inherited from birth.
+                        <section id="Tritanopia">
+                            <div class="types-text-container">
+                                <h1>Tritanopia </h1>
+                                <h2><mark>(Blue-Yellow Color Blindness)</mark></h2>
+                            </div>
+                            
+                            <p class="type-p" id="type-1"><b>Tritanomaly:</b> Partial blue colorblindness</p>
+                            <p class="type-p"><b>Color Cone Sensitivity:</b> Blue</p>
+                            <p class="main-p">Tritanomaly is a rare type of color blindness that affects both males and females equally. It is characterized by a reduced sensitivity to blue light, making it difficult to differentiate between shades of blue and green, as well as yellow and red. Tritan color blindness most commonly acquired later in life due to aging of the eye or a medical condition such as glaucoma and is only very rarely inherited from birth.
                             </p>
                             <div class="juxta-container">
                                 <iframe frameborder="0" class="juxtapose" width="100%" height="580" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=a7150ac6-233b-11ef-9396-d93975fe8866"></iframe>
@@ -140,10 +147,12 @@
                         </section>
 
                         <section id="Achromatopsia">
-                            <h1>Achromatopsia </h1>
-                            <h2>(Total colorblindness)</h2>
-                            <p><b>Achromatomaly</b> - Partial colorblindness, with faded colors</p>
-                            <p>Sometimes these are collectively referred to as types of achromatopsia, as the word “achromat” meaning “no color.” However, not all cases of achromatopsia have “no color” vision. Achromatopsia is often associated with light sensitivity, photophobia, and glare sensitivity. In some cases, low vision disorders such as progressive cone dystrophy or retinitis pigmentosa can cause a gradual deterioration of color vision that eventually turns into complete achromatopsia.
+                            <div class="types-text-container">
+                                <h1>Achromatopsia </h1>
+                                <h2><mark>(Total colorblindness)</mark></h2>
+                            </div>
+                            <p class="type-p" id="type-1" ><b>Achromatomaly:</b> Partial colorblindness, with faded colors</p>
+                            <p class="main-p">Sometimes these are collectively referred to as types of achromatopsia, as the word “achromat” meaning “no color.” However, not all cases of achromatopsia have “no color” vision. Achromatopsia is often associated with light sensitivity, photophobia, and glare sensitivity. In some cases, low vision disorders such as progressive cone dystrophy or retinitis pigmentosa can cause a gradual deterioration of color vision that eventually turns into complete achromatopsia.
                             </p>
                             <div class="juxta-container">
                                 <iframe frameborder="0" class="juxtapose" width="100%" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=10533c4c-233c-11ef-9396-d93975fe8866"></iframe>
