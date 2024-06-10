@@ -21,10 +21,10 @@
   }
 
 body {
-    padding-top: 10%;
+    padding-top: 4%;
     background: #FFF;
     /* 
-    background: url(https://i.etsystatic.com/18226958/r/il/cb5d0b/1732779826/il_fullxfull.1732779826_pu7v.jpg) no-repeat center center fixed;
+    background: url(#) no-repeat center center fixed;
     background-size: cover; 
     */
   }
@@ -39,14 +39,15 @@ body {
   
   .box1 {
     flex: 1; 
-    border: 2px solid #ffa94d;
-    border-radius: 5px;
+    /*border: 2px solid #ffa94d;*/
+    /*border-radius: 5px;*/
   }
   
   .box1 img {
     margin-top: 5%; 
     width: auto;
     height: 50vh;
+    bottom: 0;
   }
   
   .right {
@@ -58,11 +59,13 @@ body {
   
   .box2,
   .box3 {
+    /*
     border: 2px solid #ffa94d;
     border-radius: 5px;
+    color: #d9480f;*/
     padding: 1em;
-    color: #d9480f;
     margin-top: 10px;
+    text-align: center;
   }
   
   .box3 {
@@ -128,7 +131,7 @@ body {
     padding-bottom: 6rem;
   }
 
-  .theme-introduction{
+  #theme-introduction{
     display: flex;
     flex-direction: column;
   }
@@ -362,7 +365,7 @@ body {
 .herobanner {
   background: #F3EABB;
   background: linear-gradient(90deg, #F3EABB, #FFFFFF);
-  height: 100%;
+  height: auto;
   width: 100%;
 }
 
@@ -398,6 +401,7 @@ body {
 
 /* Beginning of button section */
 #red-button {
+  margin-left: 40%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -735,6 +739,7 @@ input[type=checkbox] {
 }
 
 #artist-man {
+  display: none;
   grid-column: 1;
   grid-row: 1;
   width: 100%; 

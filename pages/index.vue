@@ -10,14 +10,17 @@
 
             <section class="herobanner">
                 <div class="wrapper">
-                    <div class="box1"><img
+                    <div class="box1"><img id="artist-man"
                             src="/image_preview/Artiso_mano.png">
                     </div>
                     <div class="right">
                         <div class="box2">
                             <h1 id="title">Why Make the Web <mark>More Accessible</mark> and <img
                                     src="/image_preview/User-friendly.svg" alt="User Friendly?"></h1>
-                            <button style="vertical-align:middle" id="red-button">Learn more</button>
+
+                                    <a id="red-button" href="#theme-introduction" >
+                                    <p>Learn more</p>
+                                    </a>
                         </div>
                         <div class="box3">
                             <p id="#">In the fast-paced digital landscape, ensuring web accessibility and usability is
@@ -37,9 +40,11 @@
                     <h2 class="header-text">Get started!</h2>
                     <div id="gs-redirect-container">
                         <div id="gs-redirect">
-                            <img class="tips-icons" src="/tips-icons/TIPS.png" alt=" ">
-                            <mark id="gs-rd-title">Tips</mark>
-                            <p>Make your website more accessible and User-Friendly for people with color blindness</p>
+                            <nuxt-link to="../tips">
+                                <img class="tips-icons" src="/tips-icons/TIPS.png" alt=" ">
+                                <mark id="gs-rd-title">Tips</mark>
+                                <p>Make your website more accessible and User-Friendly for people with color blindness</p>
+                            </nuxt-link>
                         </div>
                         <div id="gs-redirect">
                             <img class="tips-icons" src="/tips-icons/pencil.png" alt=" ">
@@ -59,7 +64,7 @@
                 <br>
 
 
-                <section class="theme-introduction">
+                <section id="theme-introduction">
                     <h2 class="cool-title">What is Color Blindness and How Does It Impact User Experience?</h2>
                     <p class="p-text">Color blindness, or the inability to distinguish certain colors, presents a fascinating
                         challenge in the world of user experience. As we explore this condition, we aim to uncover
