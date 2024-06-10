@@ -40,11 +40,11 @@
                     <h2 class="header-text">Get started!</h2>
                     <div id="gs-redirect-container">
                         <div id="gs-redirect">
-                            <nuxt-link to="../tips">
+                        
                                 <img class="tips-icons" src="/tips-icons/TIPS.png" alt=" ">
-                                <mark id="gs-rd-title">Tips</mark>
+                                <nuxt-link to="../tips"> <mark id="gs-rd-title">Tips</mark> </nuxt-link>
                                 <p>Make your website more accessible and User-Friendly for people with color blindness</p>
-                            </nuxt-link>
+                        
                         </div>
                         <div id="gs-redirect">
                             <img class="tips-icons" src="/tips-icons/pencil.png" alt=" ">
