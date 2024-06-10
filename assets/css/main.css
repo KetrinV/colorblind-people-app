@@ -634,7 +634,13 @@ input[type=checkbox] {
 .burger {
   display: none;
 }
+
 @media screen and (max-width: 700px) {
+
+  body {
+    margin-top: 20%
+  }
+
   .main-p{
     margin: 1.25rem;
   }
